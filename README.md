@@ -1,6 +1,6 @@
 How to open and setup the Project
 
-Open Eclipse IDE and set workspace to the downloaded GIT Hub Project folder
+Open InteliJ IDE and set workspace to the downloaded GIT Hub Project folder
 
 'C:\Users\IdeaProjects\springcart'
 
